@@ -12,6 +12,18 @@ I thrive on turning ideas into reality.
 
 Let's connect and embark on exciting projects together! Feel free to reach out and let's innovate together. 🚀 #CodeIsLife"
 
+### PROGRAMMING LANGUAGES
+HTML, CSS, JavaScript, JAVA, PYTHON
+
+### FRAMEWORKS
+React JS
+
+## Deployment Platforms:
+
+Firebase, Netlify
+
+## Design Tools
+Figma, Balsamiq
 
 ### CONTACT ME
 
