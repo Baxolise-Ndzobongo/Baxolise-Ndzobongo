@@ -2,7 +2,7 @@
 
 ABOUT ME
 
-"👨‍💻 Hi there! I'm a dedicated software developer with a diverse skill set, ranging from front-end technologies like HTML, CSS, and JavaScript
+"👨‍💻I'm a dedicated software developer with a diverse skill set, ranging from front-end technologies like HTML, CSS, and JavaScript
 to robust back-end languages such as Java and Python. My journey into the world of technology began at the University of Forthare, where I earned
 my Bachelor of Information Systems degree, honing my analytical and problem-solving skills along the way.
 
